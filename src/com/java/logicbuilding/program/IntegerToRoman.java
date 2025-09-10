@@ -7,8 +7,8 @@ public class IntegerToRoman {
 		
 		int input = 24;
 		
-		char [] romanArray = {'L','X','V','I'};
-		int [] value = {50,10,5,1};
+		String [] romanArray = {"L","XL","X","IX","V","IV","I"};
+		int [] value = {50,40,10,9,5,4,1};
 		
 		StringBuilder result = new StringBuilder();
 		int copyNumber = input;
