@@ -45,7 +45,7 @@ public class RearrangeOddAndEven {
 		System.out.println("Even End Index : "+evenEnd);
 		
 		Arrays.sort(input, 0, evenEnd);
-		Arrays.sort(input, evenEnd, input.length-1);
+		Arrays.sort(input, evenEnd, input.length);
 		
 		System.out.println(Arrays.toString(input));
 		
