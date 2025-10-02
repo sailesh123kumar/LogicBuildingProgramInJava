@@ -3,11 +3,8 @@ package com.java.logicbuilding.program;
 public class SumNumbersFromString {
 
 	public static void main(String[] args) {
-
 		String input = "This is 1000 and it should be 20 30 50 1050";
-
 		sumOfNumberFromString(input);
-
 	}
 
 	private static void sumOfNumberFromString(String input) {
