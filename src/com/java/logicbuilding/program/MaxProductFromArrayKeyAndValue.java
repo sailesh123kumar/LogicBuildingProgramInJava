@@ -10,7 +10,6 @@ public class MaxProductFromArrayKeyAndValue {
 		
 		String [] input = {"xyz 9","abc 21","xyz 21"};
 		
-
 		Map<String , Integer> map = new HashMap<String, Integer>();
 		
 		for (String data : input) {
