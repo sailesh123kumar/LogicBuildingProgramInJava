@@ -1,6 +1,6 @@
 package com.java.logicbuilding.program;
 
-public class countVowelsinAstringSolutionOne {
+public class CountVowelsinAstringSolutionOne {
 	
 	
 	public static void main(String[] args) {
