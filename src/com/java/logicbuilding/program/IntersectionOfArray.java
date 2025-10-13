@@ -8,7 +8,7 @@ public class IntersectionOfArray {
 	public static void main(String[] args) {
 		
 		int a[] = {1,2,2,1,3};
-		int b[] = {2,2,3};
+		int b[] = {2,2};
 		
 		Set<Integer> set1 = new HashSet<Integer>();
 		Set<Integer> intersect = new HashSet<Integer>();
