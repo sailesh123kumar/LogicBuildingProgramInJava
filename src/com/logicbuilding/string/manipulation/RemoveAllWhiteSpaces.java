@@ -1,4 +1,4 @@
-package com.java.logicbuilding.program;
+package com.logicbuilding.string.manipulation;
 
 public class RemoveAllWhiteSpaces {
 	
