@@ -9,8 +9,8 @@ public class ConsecutiveNumWithTarget {
 		int target = 10;
 		
 		for(int i=0; i<input.length; i++) {
-			int sum = input[i];
-			for(int j=i+1 ; j<input.length ; j++) {
+			int sum = 0;
+			for(int j=i ; j<input.length ; j++) {
 				
 				sum=sum+input[j];
 				
